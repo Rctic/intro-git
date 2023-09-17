@@ -1,1 +1,3 @@
 install. packages
+getwd()
+ls()
